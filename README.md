@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="![Black White Modern Financial Content YouTube Banner](https://github.com/user-attachments/assets/8d661cba-df8f-4677-86a0-cd5f0eae247d)
-" alt= "" width="100%" />
+  <img src="https://logosmarcas.net/wp-content/uploads/2020/12/Canva-Emblema.jpg" alt="Welcome Banner" width="100%" />
 </p>
+
 
 # 👋 Hi, I'm Kabilan
 
