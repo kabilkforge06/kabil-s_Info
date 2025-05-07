@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/kabilkforge06/kabil-s_Info/blob/main/Black%20White%20Modern%20Financial%20Content%20YouTube%20Banner.png?raw=true](https://github.com/kabilkforge06/kabil-s_Info/blob/main/K_Banner.png?raw=true)" alt="Kabilan Murali Banner" width="100%" />
+  <img src="https://github.com/kabilkforge06/kabil-s_Info/blob/main/K_Banner.png?raw=true" alt="Kabilan Murali Banner" width="100%" />
 </p>
 
 
