@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="<p align="center">
-  <img src="https://raw.githubusercontent.com/kabilan/kabilan/main/Black%20White%20Modern%20Financial%20Content%20YouTube%20Banner.png" alt="Kabilan Murali Banner" width="100%" />
+  <img src="" alt="Kabilan Murali Banner" width="100%" />
 </p>
-" alt="Kabilan Murali Banner" width="100%" />
-</p>
+
 
 
 # 👋 Hi, I'm Kabilan
