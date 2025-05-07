@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://logosmarcas.net/wp-content/uploads/2020/12/Canva-Emblema.jpg" alt="Welcome Banner" width="100%" />
+  <img src="![Uploading Black White Modern Financial Content YouTube Banner.png…]()
+" alt="Welcome Banner" width="100%" />
 </p>
 
 
