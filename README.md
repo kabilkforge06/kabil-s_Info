@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Welcome Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Kabilan
 
 💡 MERN Stack & AI Enthusiast | Exploring the Future of Agentic AI  
