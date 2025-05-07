@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Welcome Banner" width="100%" />
+  <img src="C:\Users\Admin\Downloads\Black White Modern Financial Content YouTube Banner.png" alt="Welcome Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Kabilan
