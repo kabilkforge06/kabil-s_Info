@@ -6,8 +6,8 @@
 
 # 👋 Hi, I'm Kabilan
 
-💡 MERN Stack & AI Enthusiast | Exploring the Future of Agentic AI  
-🚀 Passionate about building intelligent, interactive systems with the power of full-stack web development & machine learning.
+💡 AI Enthusiast | Exploring the Future of Agentic AI  
+🚀 Passionate about building intelligent Agents
 
 ---
 
